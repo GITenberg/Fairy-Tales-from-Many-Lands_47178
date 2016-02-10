@@ -1,0 +1,30 @@
+_repo: Fairy-Tales-from-Many-Lands_47178
+creator:
+  author:
+    agent_name: Pyle, Katharine
+    alias: Pyle, Katherine
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '1139'
+    url: http://www.gutenberg.org/2009/agents/1139
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Pyle
+description: Illustrated by the author.
+gutenberg_issued: '2014-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: The seven golden peahens -- Mishosha, the magician of the lake --
+  Haamdaanee and the wise gazelle -- The two sisters -- The feather of the Zhar bird
+  -- The beautiful Maria di Legno -- The evil one who married three sisters -- The
+  faithful dog -- Kempion -- Buttercup -- The Sun and the Moon -- How the elephant
+  and the whale were tricked -- Cherry -- Diamonds and roses and pearls -- The three
+  cows.
+title: Fairy Tales from Many Lands
+url: http://www.gutenberg.org/ebooks/47178
