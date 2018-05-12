@@ -1,4 +1,8 @@
 _repo: Fairy-Tales-from-Many-Lands_47178
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47178-h/images/cover.jpg
 creator:
   author:
     agent_name: Pyle, Katharine
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1139
     wikipedia: http://en.wikipedia.org/wiki/Katharine_Pyle
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47178#Fairy-Tales-from-Many-Lands
 gutenberg_issued: '2014-10-23'
 gutenberg_type: Text
 identifiers:
